@@ -1,4 +1,4 @@
-export const host = 'http://localhost:8081';
+export const host = 'https://anhyeuemilia.herokuapp.com';
 export const registerRoute = `${host}/api/auth/register`
 export const loginRoute = `${host}/api/auth/login`
 export const setAvatarRoute = `${host}/api/auth/setAvatar`
