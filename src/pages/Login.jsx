@@ -90,7 +90,7 @@ function Login() {
 
               <button type="submit">Login</button>
               <span>
-                <Link to='/lll'
+                <Link to='#'
                   style={{
                     paddingLeft: 13,
                     textDecoration: 'none',
